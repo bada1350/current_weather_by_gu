@@ -21,4 +21,4 @@
 
 - [참고] 네이버 광진구 날씨 정보(기상청 제공)<br><br>
 ![current_weather_3](https://user-images.githubusercontent.com/121742489/211871719-f5c2d7de-8108-4284-9462-4a1bd200ab8f.png)
-<br>
+<br> => 날씨 정보 제공 화면과 동일함
