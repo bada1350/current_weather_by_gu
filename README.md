@@ -3,7 +3,7 @@
 <br><br><br>
 
 ## 코드 설명
-*PPT를 참고 바랍니다.*
+[구별 날씨 확인 프로그램.pdf](https://github.com/bada1350/current_weather_by_gu/files/10448242/default.pdf)
 <br><br><br>
 
 ## 사용법
